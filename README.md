@@ -1,5 +1,5 @@
 # Convolutional-Neural-Network-ML-Assignment-3
-Tugas 2 dari mata kuliah Machine Learning, membuat model klasifikasi (dataset 5 kelas bunga) multi layer perceptron from scratch
+Tugas ke 3 dari mata kuliah Machine Learning, membuat model klasifikasi (dataset 5 kelas bunga) menerapkan CNN menggunakan tensorflow
 
 Dikerjakan oleh :
 <ol>
